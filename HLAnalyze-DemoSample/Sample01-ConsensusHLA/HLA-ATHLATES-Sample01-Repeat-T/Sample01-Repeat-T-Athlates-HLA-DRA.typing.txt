@@ -1,0 +1,27 @@
+            Name        HD     Aln_len    cDNA_len     Similarity        Avg_cov               Missing_exons (ID, len); mismatches [ID, pos]
+
+ DRA*01:01:01:01         0         765         765              1        244.889
+ DRA*01:01:01:02         0         765         765              1        244.889
+ DRA*01:01:01:03         0         765         765              1        244.889
+    DRA*01:02:03         0         765         765              1        242.544
+    DRA*01:02:01         0         683         683              1        266.067			(1, 0)	
+    DRA*01:02:02         1         765         765       0.998693        266.115			[3, 74]	
+    DRA*01:01:02         2         765         765       0.997386        244.889			[3, 74]	[4, 41]	
+
+
+ ------------ Candidate Allelic Pairs -------------
+
+            Name        HD     Aln_len    cDNA_len     Similarity        Avg_cov               Missing_exons (ID, len); mismatches [ID, pos]
+
+ DRA*01:01:01:01         0         765         765              1        244.889
+ DRA*01:01:01:02         0         765         765              1        244.889
+ DRA*01:01:01:03         0         765         765              1        244.889
+    DRA*01:02:03         0         765         765              1        242.544
+    DRA*01:02:01         0         683         683              1        266.067			(1, 0)	
+
+
+ ------------ Inferred Allelic Pairs ------------- 
+
+DRA*01:01:01:01		DRA*01:02:03		0
+DRA*01:01:01:02		DRA*01:02:03		0
+DRA*01:01:01:03		DRA*01:02:03		0

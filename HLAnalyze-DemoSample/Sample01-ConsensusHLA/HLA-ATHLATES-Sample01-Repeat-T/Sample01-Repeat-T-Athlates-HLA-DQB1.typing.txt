@@ -1,0 +1,17 @@
+            Name        HD     Aln_len    cDNA_len     Similarity        Avg_cov               Missing_exons (ID, len); mismatches [ID, pos]
+
+   DQB1*05:08:01         0         772         786              1        368.062			(5, 0)	(6, 14)	
+      DQB1*05:47         1         552         552       0.998188        401.817			(1, 0)	(4, 0)	(5, 0)	(6, 0)				[3, 239]	
+
+
+ ------------ Candidate Allelic Pairs -------------
+
+            Name        HD     Aln_len    cDNA_len     Similarity        Avg_cov               Missing_exons (ID, len); mismatches [ID, pos]
+
+   DQB1*05:08:01         0         772         786              1        368.062			(5, 0)	(6, 14)	
+      DQB1*05:47         1         552         552       0.998188        401.817			(1, 0)	(4, 0)	(5, 0)	(6, 0)				[3, 239]	
+
+
+ ------------ Inferred Allelic Pairs ------------- 
+
+DQB1*05:08:01		DQB1*05:08:01		0
