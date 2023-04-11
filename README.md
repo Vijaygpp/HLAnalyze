@@ -3,6 +3,12 @@ A utility for analysis of consensus HLA typing results using multiple HLA typing
 
 Extracts and compiles HLA-typing calls from five HLA-typing software [ATHLATES, OptiType, Polysolver, Seq2HLA and HLAminer] and three high throughput data sources [Tumor-DNA, Normal-DNA, Tumor-RNA] in analysis ready form and creates a ppt file for analysis and finalization of consensus HLA-type calls. 
 
+Needs following python modules:
+pandas, numpy, matplotlib, venn, python-pptx
+
+Use pip3 to install modules as follows:
+pip3 install python-pptx
+
 Run following for use instructions:
 
 python3 createHLAPPT.py --help
